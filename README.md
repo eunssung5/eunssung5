@@ -1,4 +1,4 @@
-# Hi ,I'm 서은상
+# Hi ,I'm 서은상(나는 다른 세계의 은상)
 
 <!--
 **eunssung5/eunssung5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
